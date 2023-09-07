@@ -48,7 +48,8 @@ export async function main ({month, year, user ,pass, operationType}) {
           '--disable-notifications',
           '--user-data-dir=./user-data', // Directorio de datos del usuario
           '--multiple-downloads',
-           '--download.default_directory=/your/download/path'
+           '--download.default_directory=/your/download/path',
+           '--no-sandbox'
         ],
       });
       
