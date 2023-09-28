@@ -1,0 +1,26 @@
+{
+  "data": [
+    "Nro;Tipo Doc;Tipo Venta;Rut cliente;Razon Social;Folio;Fecha Docto;Fecha Recepcion;Fecha Acuse Recibo;Fecha Reclamo;Monto Exento;Monto Neto;Monto IVA;Monto total;IVA Retenido Total;IVA Retenido Parcial;IVA no retenido;IVA propio;IVA Terceros;RUT Emisor Liquid. Factura;Neto Comision Liquid. Factura;Exento Comision Liquid. Factura;IVA Comision Liquid. Factura;IVA fuera de plazo;Tipo Docto. Referencia;Folio Docto. Referencia;Num. Ident. Receptor Extranjero;Nacionalidad Receptor Extranjero;Credito empresa constructora;Impto. Zona Franca (Ley 18211);Garantia Dep. Envases;Indicador Venta sin Costo;Indicador Servicio Periodico;Monto No facturable;Total Monto Periodo;Venta Pasajes Transporte Nacional;Venta Pasajes Transporte Internacional;Numero Interno;Codigo Sucursal;NCE o NDE sobre Fact. de Compra;Codigo Otro Imp.;Valor Otro Imp.;Tasa Otro Imp.",
+    "1;33;Del Giro;79953360-K;PANIFICADORA LA MARITIMA LIMITADA;982;03/04/2023;03/04/2023 09:07:03;;;0;55200;10488;65688;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;1;0;0;0;;;;78232544;;;;;",
+    "2;33;Del Giro;15837782-9;ANDREA DANIELA TORRES MEDINA;983;04/04/2023;04/04/2023 20:32:53;;;0;70500;13395;83895;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;1;0;0;0;;;;78232544;;;;;",
+    "3;33;Del Giro;79953360-K;PANIFICADORA LA MARITIMA LIMITADA;984;10/04/2023;10/04/2023 10:31:19;;;0;79200;15048;94248;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;1;0;0;0;;;;78232544;;;;;",
+    "4;33;Del Giro;15837782-9;ANDREA DANIELA TORRES MEDINA;985;12/04/2023;12/04/2023 10:48:01;;;0;47000;8930;55930;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;1;0;0;0;;;;78232544;;;;;",
+    "5;33;Del Giro;15837782-9;ANDREA DANIELA TORRES MEDINA;986;19/04/2023;19/04/2023 11:18:09;;;0;47000;8930;55930;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;1;0;0;0;;;;78232544;;;;;",
+    "6;33;Del Giro;79953360-K;PANIFICADORA LA MARITIMA LIMITADA;987;23/04/2023;23/04/2023 13:14:24;;;0;103200;19608;122808;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;1;0;0;0;;;;78232544;;;;;",
+    "7;33;Del Giro;15837782-9;ANDREA DANIELA TORRES MEDINA;988;26/04/2023;26/04/2023 11:21:17;;;0;100840;19160;120000;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;1;0;0;0;;;;78232544;;;;;"
+  ],
+  "nombreArchivo": "RCV_VENTA_76294831-1_202304.csv",
+  "metaData": {
+    "conversationId": "V2S8HAYM7LBOG",
+    "transactionId": "0ae196f6-9389-4b0f-862a-adf78f3a0f39",
+    "namespace": "cl.sii.sdi.lob.diii.consdcv.data.api.interfaces.FacadeService/getDetalleVentaExport",
+    "info": null,
+    "errors": null,
+    "page": null
+  },
+  "respEstado": {
+    "codRespuesta": 0,
+    "msgeRespuesta": null,
+    "codError": null
+  }
+}
